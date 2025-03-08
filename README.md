@@ -15,4 +15,5 @@ A simple JavaScript project that fetches and displays real-time weather data for
    git clone https://github.com/username/weather-app.git
 
 
-   ![Untitled](https://github.com/user-attachments/assets/4149de60-a53b-4026-9c99-d18843aded20)
+
+![Untitled](https://github.com/user-attachments/assets/2ec2bed2-ee32-4e04-8e0b-6a5051016593)
